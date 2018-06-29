@@ -1,9 +1,9 @@
 require_relative "./vehicle.rb"
 
-class car < Vehicle
+class Car < Vehicle
 
    def initialize(wheel_size, wheel_number)
-      
+
    end
    def go
     "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
